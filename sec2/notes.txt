@@ -1,0 +1,71 @@
+L11. Arrow Functions and the "this" Keyword
+    Key diffrence betwen function and arrow function 
+    function: changes this context
+    arrow: does not change the context
+    Example :
+        https://jsbin.com/lubinasano/1/edit?js,console,output
+
+L12. Functions and Default Parameters
+    can set default peramiters by adding = and the value after the peramiter
+        Example: 
+            https://jsbin.com/nojocilequ/edit?js,console
+
+    if I pass one argument to a function with 2 arguments only the first argument will get set
+        Example :
+            https://jsbin.com/xunamoquqa/edit?js,console 
+
+    If we set the second one however we dont get undefined
+        Example: 
+            https://jsbin.com/xunamoquqa/edit?js,console
+
+    we can also make calculations
+        Example:
+            https://jsbin.com/xunamoquqa/edit?js,console
+
+    intrestingly we can also use other arguments as well like so.
+        Example:
+            https://jsbin.com/xunamoquqa/1/edit?js,console
+    this is only when no other value is provided
+
+    If I provide the value that one is used instead of the default value
+        Example:
+            https://jsbin.com/xunamoquqa/1/edit?js,console
+
+    we can also set a variable from the outside as a default variable
+        Example:
+            https://jsbin.com/xunamoquqa/1/edit?js,console
+
+    I can not set a default peramiter to a value that has not been set yet
+        Example:
+            <a class="jsbin-embed" href="https://jsbin.com/xunamoquq
+
+    if we switch it around number has been defined so it works
+        Example:
+            https://jsbin.com/magovufilo/1/edit?js,console
+
+    the benifits of default functions is that I can write more dynamic functions which might have 3 peramiters but u only need to pass one
+        
+L.13 Object Literal Extensions
+
+    regular Object
+        Example:
+            https://jsbin.com/kocugev/edit?js,console
+
+    If the name and age arent in the object they will be taken from variables around them
+        Example:
+            https://jsbin.com/kocugev/edit?js,console
+    name and age arent defined so they are pulled from the name and age variables outside of the object
+
+    Define Method
+        Example:
+            https://jsbin.com/kocugev/edit?js,consolehttps://jsbin.com/kocugev/edit?js,console
+    
+    I can define the same method with greet as a string resulting in the same thing
+        Example:
+            https://jsbin.com/kocugev/edit?js,console
+
+    This allows me to do things that I otherwise wouldnt be able to do like Include white-space in the method name
+        Example:
+            https://jsbin.com/kocugev/edit?js,console
+
+    3:35
