@@ -72,9 +72,49 @@ L.13 Object Literal Extensions
         Example:
             https://jsbin.com/kocugev/edit?js,console
 
-L.14 The Rest Operator
+L.14 The Rest Operator -- takes list of values and creates an array (... before the = sign)
         Example:
             https://jsbin.com/kocugev/edit?js,console
 
         with a string
             Example: https://jsbin.com/kocugev/edit?js,console
+
+L.15 The Spread Operator -- Used to split up an array into diffrent values (... after = sign)
+    
+    First without the spread Operator
+        Example: https://jsbin.com/kocugev/edit?js,console
+
+    Here with the spread Operator
+        Example: https://jsbin.com/kocugev/edit?js,console
+
+L.16 The For Of loop
+    https://jsbin.com/kocugev/edit?js,console
+
+L.17 Template Literals
+    https://jsbin.com/kocugev/edit?js,console
+
+L.18 Destructuring Arrays - quick way to extract values from an array 
+    Before Destructuring
+        https://jsbin.com/kocugev/edit?js,console
+    
+    same with Destructuring
+        https://jsbin.com/kocugev/edit?js,console
+
+    What if I pull out more variables than this array has
+        https://jsbin.com/kocugev/edit?js,console
+
+    Or I can use the rest peramiter in conjunction
+        https://jsbin.com/kocugev/edit?js,console
+
+    Setting Default values
+        https://jsbin.com/kocugev/edit?js,console
+
+    Swapping values
+        https://jsbin.com/kocugev/edit?js,console
+
+    skipping values
+        https://jsbin.com/kocugev/edit?js,console
+
+19. Destructuring Objects
+        https://jsbin.com/kocugev/edit?js,console
+
