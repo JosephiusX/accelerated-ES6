@@ -68,4 +68,13 @@ L.13 Object Literal Extensions
         Example:
             https://jsbin.com/kocugev/edit?js,console
 
-    3:35
+    create properties dynamically with the name stored in variables
+        Example:
+            https://jsbin.com/kocugev/edit?js,console
+
+L.14 The Rest Operator
+        Example:
+            https://jsbin.com/kocugev/edit?js,console
+
+        with a string
+            Example: https://jsbin.com/kocugev/edit?js,console
